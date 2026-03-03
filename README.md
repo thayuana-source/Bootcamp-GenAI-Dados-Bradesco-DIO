@@ -1,7 +1,7 @@
-# Desafio-Aprendizagem-com-IA-Bootcamp-DIO
+# Aprendizagem-com-IA-Bootcamp-DIO
 Projeto do Bootcamp GenAI dados Bradesco na ual fui aluna acelerando aprendizado de IA na DIO.
 
-## Projeto:
+## Desafio Projeto:
 uso do NotebookLM na criaçao de mapa mental sobre conteúdo estudado com fontes confiaveis selecionadas por plataformas como Youtube,
 ChatGPT e aruivos pdf,organizando conteúdo e gerando mais produtividade.
 
